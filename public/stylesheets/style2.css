@@ -1,0 +1,95 @@
+body {
+    border: 0;
+    background-color: rgb(135, 229, 255) !important;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+
+}
+
+a {
+    color: #00B7FF;
+}
+
+
+.header {
+    border-bottom: 1px solid rgb(135, 229, 255);
+    box-shadow: 0px 2px 10px #5e27349d;
+
+}
+
+li {
+    padding: 0px 20px 0px 10px;
+
+}
+
+.cards {
+    margin-left: 80px !important;
+    margin-right: 0px !important;
+}
+
+.card-container {
+    margin: 50px 20px 0px 40px !important;
+    padding: 0px 0px 50px 0px !important;
+}
+
+.foot {
+    background-color: white;
+    width: 100% !important;
+    margin: 0px 0px 0px 0px !important;
+}
+
+label {
+    padding-bottom: 20px;
+    line-height: 40px;
+    font-weight: bold;
+    color: rgb(135, 229, 255);
+    text-transform: uppercase;
+    font-size: large;
+    text-align: center;
+    letter-spacing: 3px;
+
+}
+
+input {
+    width: 300px;
+    text-align: center;
+    height: 30px;
+}
+
+.login {
+    padding: 5px 50px 5px 50px;
+    margin-left: 70px;
+    background-color: rgb(135, 229, 255);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    border-width: 0;
+}
+
+#login_btn {
+    padding: 5px 50px 5px 50px;
+    border-radius: 2px;
+    background-color: white;
+    color: rgb(135, 229, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 3px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border: 3px solid rgb(135, 229, 255);
+}
+
+.tagline {
+    padding-top: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 3px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#showPassword {
+    margin-left: 30px;
+    width: 20px;
+    height: 20px;
+
+}
